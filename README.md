@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fffilipi
-- 👀 I’m interested in  vagas de desenvolvedor web. Sou iniciante, mas tenho muita vontade de aprender.
-- 🌱 I’m currently learning  HTML, CSS, JS...
+- 👋 Olá, sou o @fffilipi
+- 👀 Tenho interesse em vagas de desenvolvedor web. Sou iniciante, mas tenho muita vontade de aprender.
+- 🌱 Atualmente estou estudando  HTML, CSS, JS...
 - 📫 Meu e-mail: filipi_f@hotmail.com
 
 <!---
