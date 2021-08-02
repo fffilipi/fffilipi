@@ -1,6 +1,6 @@
-## Olá, eu sou o Filipi Natã!
+## Bem-vindo! Fico feliz que você veio aqui.
 
-- 👀 Tenho interesse em vagas de desenvolvedor web.
+- 👀 Me chamo Filipi e tenho interesse em vagas de desenvolvedor web.
 - 🌱 Atualmente estou estudando  HTML, CSS, JS.
 - 📫 Meu e-mail: filipi_f@hotmail.com
 
