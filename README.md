@@ -1,7 +1,7 @@
 ## Bem-vindo! Fico feliz que você veio aqui.
 
-- 👀 Me chamo Filipi e tenho interesse em vagas de desenvolvedor web.
-- 🌱 Atualmente estou estudando  HTML, CSS, JS.
+- 👀 Me chamo Filipi e tenho interesse em vagas de desenvolvedor web 
+- 🌱 Atualmente estou estudando  HTML, CSS, JS. Estou cursando também 4º semetre de Engenharia da computacao. Formado em Processos Gereciais.
 - 📫 Meu e-mail: filipi_f@hotmail.com
 
  <div>
