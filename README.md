@@ -1,9 +1,9 @@
 ## Bem-vindo! Fico feliz que você veio aqui.
 
-- 👀 Me chamo Filipi e tenho interesse em vagas de desenvolvedor web 
-- 🌱 Atualmente estou estudando  HTML, CSS, JS. Estou cursando também 4º semetre de Engenharia da computacao. Formado em Processos Gereciais.
+- 👀 Me chamo Filipi e tenho interesse em vagas de desenvolvedor web;
+- 🌱  Atualmente estou estudando HTML, CSS, JS. Estou cursando também 4º semetre de Engenharia da Computação. Formado em Processos Gerenciais.
 - 📫 Meu e-mail: filipi_f@hotmail.com
-
+ 
  <div>
   <a href="https://github.com/fffilipi">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fffilipi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
