@@ -1,8 +1,9 @@
-## Bem-vindo! Fico feliz que você veio aqui.
+## Bem-vindo!  Aqui você encontra alguns projetos que já realizei.
 
-- 👀 Me chamo Filipi e tenho interesse em vagas de desenvolvedor web;
-- 🌱  Atualmente estou estudando HTML, CSS, JS. Estou cursando também 4º semetre de Engenharia da Computação. Formado em curso Superior de Tecnologia em Processos Gerenciais.
-- 📫 Meu e-mail: filipi_f@hotmail.com
+- Meu interesse é interesse é desenvolvimento Full Stack, mas atualmente tenho  sólidos conhecimento em HTML, CSS e JavaScript no Front End. Já utilizei algumas bibliotecas do JS sendo o React a principal;
+- Tenho formação superior completa em Processos Gerenciais e estou cursando no 4º semestre Engenharia da Computação;
+- Caso queira entrar em contato comigo, peça meu contato no e-mail: filipi_f@hotmail.com ou me chame no Linkedin.
+
  
  <div>
   <a href="https://github.com/fffilipi">
