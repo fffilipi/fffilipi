@@ -1,7 +1,7 @@
 ## Bem-vindo!  Aqui você encontra alguns projetos que já realizei.
 
 - Meu interesse é interesse é desenvolvimento Full Stack, mas atualmente tenho  sólidos conhecimento em HTML, CSS e JavaScript no Front End. Já utilizei algumas bibliotecas do JS sendo o React a principal;
-- Tenho formação superior completa em Processos Gerenciais e estou cursando no 4º semestre Engenharia da Computação;
+- Tenho formação superior completa em Processos Gerenciais e estou cursando no 4º semestre Engenharia da Computação onde tenho aprendido a linguagem Java;
 - Caso queira entrar em contato comigo, peça meu contato no e-mail: filipi_f@hotmail.com ou me chame no Linkedin.
 
  
