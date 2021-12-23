@@ -1,8 +1,8 @@
 ## Bem-vindo!  Aqui você encontra alguns projetos que já realizei.
 
- - Meu interesse é desenvolvimento Full Stack, mas atualmente tenho conhecimento em HTML, CSS e JavaScript no Front End. Já utilizei algumas bibliotecas do JS sendo o React a principal;
+- Conhecimentos em HTML5, CSS, JavaScript, React e Java;
 - Tenho formação superior completa em Processos Gerenciais e estou cursando no 4º semestre Engenharia da Computação onde tenho aprendido em linguagem Java;
-- Caso queira entrar em contato comigo, peça meu contato no e-mail: filipi_f@hotmail.com ou me chame no Linkedin.
+- Caso queira entrar em contato comigo, mande um e-mail: filipi_f@hotmail.com ou me chame no Linkedin.
 
  
  <div>
@@ -14,6 +14,9 @@
   <img align="center" alt="Filipi-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Filipi-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Filipi-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+< img align = "center" alt= "Filipi-React" heigth = "30" width = "70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+< img align = "center" alt= "Filipi-Java" heigth = "30" width = "70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+
  </div>
 
 ##
