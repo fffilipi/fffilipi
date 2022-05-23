@@ -1,7 +1,8 @@
 ## Bem-vindo!  Aqui você encontra alguns projetos que já realizei.
 
-- Conhecimentos em HTML5, CSS, JavaScript, React e Java;
-- Tenho formação superior completa em Processos Gerenciais e estou cursando no 4º semestre Engenharia da Computação onde tenho aprendido em linguagem Java;
+- Conhecimentos em HTML5, CSS, JavaScript, React, Java e PHP;
+- Tenho formação superior completa em Processos Gerenciais e estou cursando no 5º semestre Engenharia da Computação onde tenho aprendido em linguagem Java;
+- Estagiário Full-Stack utilizando PHP e SQLServer;
 - Caso queira entrar em contato comigo, mande um e-mail: filipi_f@hotmail.com ou me chame no Linkedin.
 
  
