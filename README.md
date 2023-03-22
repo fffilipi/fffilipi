@@ -1,7 +1,7 @@
 ## Bem-vindo!  Aqui você encontra alguns projetos que já realizei.
 
 - Conhecimentos em HTML5, CSS, JavaScript, React, Java, PHP e laravel;
-- Tenho formação superior completa em Processos Gerenciais e estou cursando no 6º semestre Engenharia da Computação onde tenho aprendido em linguagem Java;
+- Tenho formação superior completa em Processos Gerenciais e estou cursando no 7º semestre Engenharia da Computação onde tenho aprendido em linguagem Java;
 - Desenvolvedor Full-Stack utilizando PHP e laravel;
 - Caso queira entrar em contato comigo, mande um e-mail: filipi_f@hotmail.com ou me chame no Linkedin.
 
