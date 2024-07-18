@@ -11,4 +11,4 @@
 - **MySQL, SQLServer**;
 - **Docker**.
 
-**Email para contato:** filipinatasouza@gmail.com - [Linkedin](https://www.linkedin.com/in/fffilipi/)
+**Email para contato:** filipinatasouza@gmail.com || [Linkedin](https://www.linkedin.com/in/fffilipi/)
