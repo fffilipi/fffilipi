@@ -4,8 +4,8 @@
 
 **Linguagens e tecnologias que já tive contato:**
 
-- **PHP** (Laravel) maior experiência;
-- **Java** (Estudos / Faculdade - testes automatizados utilizando Selenium);
+- **PHP** (Laravel);
+- **Java** (Estudos testes automatizados utilizando Selenium);
 - **Dart** (Flutter / Android - iOS);
 - **HTML, CSS, JavaScript, Vue, React, jQuery, Bootstrap** (Front-end);
 - **MySQL, SQLServer**;
