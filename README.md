@@ -4,8 +4,8 @@
 
 **Linguagens e tecnologias que já tive contato:**
 
-- **PHP** (Laravel);
-- **Java** (Estudos testes automatizados utilizando Selenium);
+- **PHP** (Laravel/Lumem + CodeIgniter);
+- **Java** (Estudos + testes automatizados utilizando Selenium);
 - **Dart** (Flutter / Android - iOS);
 - **HTML, CSS, JavaScript, Vue, React, jQuery, Bootstrap** (Front-end);
 - **MySQL, SQLServer**;
